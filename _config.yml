@@ -1,12 +1,12 @@
 # Site settings
-title: Technologies2000
+title: technologies2000
 email: georgereddykg@gmail.com
 description: Technologies2000 is a Quality, IT Services, Cell Phones, and services, Wealth and Health builders, Social
              media, and differect ventures. We haven been serving since 1993 and servied many fortune 500 companies.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: /technologies2000
+url: 
 twitter_username: GeorgeReddykg
-github_username:  kgreddy 
+github_username:  kgreddy
 
 # Build settings
 markdown: kramdown
