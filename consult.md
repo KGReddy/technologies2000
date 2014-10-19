@@ -4,8 +4,32 @@ title: Consulting
 permalink: /consult/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Projects & Customers
+Medical
+Banking
+Advertising
+ContentManagement
+Animation
+BusinessLogic
+OnLine Desktop Publishing
+OnLineTraining
+E-Commerce
+SilverLight
+Website Templates
+Web Development
+JAVA PHP,.NET FRAMEWORK, C#, VB
+MYSQL, SQL SERVER, HTML, DHTML, CSS, JSP, EJB, APPLETS
+C++
+Client/Server
+Oracle
+Data Bases
+Testing Tools & Scripts
+Data Warehouse
+Consulting
+Design
+Development
+Quality Control and Testing
+Implementation
+Documentation
+Training
+Product Support
